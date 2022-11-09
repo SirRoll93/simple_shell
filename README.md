@@ -320,5 +320,5 @@ $
 
 ## Authors ##
 
-👤 **Jesse Kyambadde**\
-👤 **Asubonteng Vincent**
+👤 **Jesse Kyambadde(jesar-enl)**\
+👤 **Asubonteng Vincent(SirRoll93)**
