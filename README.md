@@ -45,6 +45,7 @@ Usage: **hsh** [filename]
 To invoke **hsh**, compile all `.c` files in the repository and run the resulting executable.
 
 **hsh** can be invoked both interactively and non-interactively. If **hsh** is invoked with standard input not connected to a terminal, it reads and executes received commands in order.
+`./hsh`
 
 Example:
 ```
